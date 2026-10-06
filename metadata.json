@@ -1,0 +1,6 @@
+{
+  "name": "Student Hub",
+  "description": "A modern Student Information Management System featuring student records, department analytics, reports, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
